@@ -1,8 +1,8 @@
-#Título
-##Subtítulo
-+item2
--item2
-*item3
+# Título
+## Subtítulo
++ item2
+- item2
+* item3
 
 ```C
 #include<stdio.h>
